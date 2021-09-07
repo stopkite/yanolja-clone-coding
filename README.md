@@ -1,3 +1,6 @@
+<img src = "https://user-images.githubusercontent.com/62979643/132304054-5e2afac5-40ca-4d9f-9426-0fd843071e27.gif" width ="150" />  <img src = "https://user-images.githubusercontent.com/62979643/132305206-9e22e202-6f39-471e-8349-60a1d692f2b0.gif" width ="150" />  <img src = "https://user-images.githubusercontent.com/62979643/132305396-9eb19942-d324-4b95-8348-944ec6299bdc.gif" width ="150" /> 
+
+
 ## 2021-08-14 진행상황
 + 바텀 네비게이션 바 완성(빈 Fragment에 연결 성공)
 + 스플래쉬 및 런처 아이콘 등록 완료
@@ -113,5 +116,3 @@
 + 현재 23번 숙박예약 api 연결 시도중...
 
 + 24번 api 까지 완료하고 부족한 레이아웃 수정해서 영상하는 것을 목표로 하고 있습니다. 
-
-
